@@ -1,5 +1,3 @@
-# About Me :)
-
 <h1 align="center">Hello, I'm Samruddhi Sachin Tapkir</h1>
 <!-- <h3 align="center">Computer Science and Engineering Student</h3> -->
 
