@@ -11,12 +11,12 @@
 
 ### GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sammuuu11151171&show_icons=true&theme=radical" />
 </p>
 
 ### Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sammuuu11151171&layout=compact&theme=radical" />
 </p>
 # Samruddhi-Sachin-Tapkir
 This is my Git Repository.
