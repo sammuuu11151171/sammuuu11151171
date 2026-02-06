@@ -6,8 +6,13 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=sammuuu11151171&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
+
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGZ3dXA0dGo2eTRodzh4aWo3MWZ6eXM5ZW5lbW5haDhnZHdvbmptcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif" width="400" alt="Girl Coding GIF" />
+</p>
+
 
 ### GitHub Stats
 <p align="center">
