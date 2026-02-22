@@ -20,7 +20,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=sammuuu11151171&theme=onedark" width="50%" />
 </p>
 
-https://github-readme-stats.vercel.app/api?username=sammuuu11151171
 ### Most Used Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sammuuu11151171&layout=compact&theme=radical" />
