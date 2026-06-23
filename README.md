@@ -98,11 +98,11 @@ My world revolves around creativity, discipline, continuous learning and buildin
 <h2 align="center"> Connect With Me</h2>
 
 <p align="center">
-  <a href="linkedin">
+  <a href="https://www.linkedin.com/in/samruddhi-sachin-tapkir/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 
-  <a href="github">
+  <a href="https://github.com/sammuuu11151171">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
 
