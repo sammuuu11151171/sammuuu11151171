@@ -1,4 +1,5 @@
 <h1 align="center">Samruddhi Sachin Tapkir</h1>
+<h4 align="center">It is said that one smile a day keeps the negativity away :) </h4>
 <!-- <h3 align="center">Computer Science and Engineering Student</h3> -->
 
 <p align="center">
@@ -19,9 +20,10 @@ Hey there! I'm a B.Tech CSE student who loves building things, whether it's a fu
 - MERN Stack DEveloper
 - Learning System Design
 - Building Full Stack Projects
-- Proud Open Source Contributor at GSSoC'26
+- I love Open Source Contributor (GSSoC'26 Contributor)
  
 <h2 align="center">Life Outside the Terminal </h2>
+
 - Paintbrush in one hand, keyboard in the other :)
 - Black Belt Martial Artist who believes every challenge is just another level to unlock.
 - Cake Baker by passion 
@@ -48,6 +50,10 @@ My world revolves around creativity, discipline, continuous learning and buildin
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Hoppscotch](https://img.shields.io/badge/Hoppscotch-31C48D?style=for-the-badge&logo=hoppscotch&logoColor=white)
 
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 ### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -58,7 +64,15 @@ My world revolves around creativity, discipline, continuous learning and buildin
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+### Core CS Subjects
 
+<p align="center">
+  <img src="https://img.shields.io/badge/OOP-Programming-blue?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/DBMS-Database-green?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/OS-Operating_System-orange?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/CN-Networking-red?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/System_Design-Architecture-purple?style=for-the-badge" />
+</p>
 <h2 align="center">GitHub Stats</h2>
 <p align="center">
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=sammuuu11151171&show_icons=true&theme=radical" /> -->
@@ -127,13 +141,16 @@ My world revolves around creativity, discipline, continuous learning and buildin
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=sammuuu11151171&label=Profile+Views&color=blue"/> 
+
+<p align="center><img src="https://komarev.com/ghpvc/?username=sammuuu11151171&label=Profile+Views&color=blue"/> </p>
 
 
-#### Samruddhi-Sachin-Tapkir
+
+<!-- #### Samruddhi-Sachin-Tapkir
 This is my Git Repository.
 <br>
-Author - Samruddhi S. Tapkir
+Author - Samruddhi S. Tapkir --> 
+
 <p align="center">
   Made with ❤️ and 💻 by Samruddhi
 </p>
