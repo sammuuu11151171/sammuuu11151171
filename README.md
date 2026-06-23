@@ -1,5 +1,5 @@
 <h1 align="center">Samruddhi Sachin Tapkir</h1>
-<h4 align="center">It is said that one smile a day keeps the negativity away :) </h4>
+<h4 align="center">One smile a day keeps the negativity away :) </h4>
 <!-- <h3 align="center">Computer Science and Engineering Student</h3> -->
 
 <p align="center">
@@ -20,7 +20,7 @@ Hey there! I'm a B.Tech CSE student who loves building things, whether it's a fu
 - MERN Stack DEveloper
 - Learning System Design
 - Building Full Stack Projects
-- I love Open Source Contributor (GSSoC'26 Contributor)
+- Open Source Contributor (GSSoC'26)
  
 <h2 align="center">Life Outside the Terminal </h2>
 
@@ -86,7 +86,9 @@ My world revolves around creativity, discipline, continuous learning and buildin
 
 
 <h2 align="center">Contribution Graph</h2>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sammuuu11151171&theme=react-dark"/>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sammuuu11151171&theme=react-dark"/>
+</p>
 
 <!-- ### GitHub Trophies
 
@@ -96,13 +98,24 @@ My world revolves around creativity, discipline, continuous learning and buildin
 <h2 align="center"> Connect With Me</h2>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/samruddhi-sachin-tapkir/">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
+  <a href="linkedin">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
 
-<a href="https://github.com/sammuuu11151171">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
+  <a href="github">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+
+  <a href="https://x.com/SamruddhiT1517">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="48" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://discord.gg/4AGHfBn52">
+    <img src="https://img.shields.io/badge/Discord-sammu_got_no_chill_00837-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</p>
 <!--
 <a href="YOUR_LEETCODE_URL">
 <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" width="48"/>
@@ -112,15 +125,6 @@ My world revolves around creativity, discipline, continuous learning and buildin
 <a href="YOUR_CODEFORCES_URL">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/codeforces.svg" width="48"/>
 </a> -->
-
-<a href="https://x.com/SamruddhiT1517" target="_blank" >
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="48" alt="X" />
-</a>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Discord-sammu_got_no_chill_00837-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-</p>
-
 
 <!-- [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YOUR_USERNAME)
 
@@ -142,7 +146,7 @@ My world revolves around creativity, discipline, continuous learning and buildin
 </p>
 
 
-<p align="center><img src="https://komarev.com/ghpvc/?username=sammuuu11151171&label=Profile+Views&color=blue"/> </p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=sammuuu11151171&label=Profile+Views&color=blue"/> </p>
 
 
 
@@ -152,7 +156,7 @@ This is my Git Repository.
 Author - Samruddhi S. Tapkir --> 
 
 <p align="center">
-  Made with ❤️ and 💻 by Samruddhi
+  Made with ❤️, ☕ and 💻 by Samruddhi Tapkir :)
 </p>
 
 
